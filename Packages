@@ -1,0 +1,17 @@
+Package: com.tigisoftware.filza64bit
+Version: 3.8.1-22
+Architecture: iphoneos-arm
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Replaces: 
+Filename: ./debs/com.tigisoftware.filza64bit_3.8.1-22_iphoneos-arm.deb
+Size: 8184
+Installed-Size: 21768
+MD5sum: 6ad8dd69fa23afb8a8b26c1cea23153a
+SHA1: 7ba8a6808c21ecfda85d17abd82075aa31aa3564
+SHA256: 088cd3be3631195bcb5851f85a213ddecfc30e2499a9e09c1af4919e909c4401
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Maintainer: TIGI Software
+Author: TIGI Software
+Name: Filza File Manager 64-bit
